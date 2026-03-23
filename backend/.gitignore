@@ -3,3 +3,7 @@ node_modules
 .env
 
 /generated/prisma
+
+# Artifacts
+implementation_plan.md.resolved
+task.md
