@@ -194,12 +194,6 @@ Project/
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <p align="center">
   Made with ❤️ by <a href="https://github.com/Shagun-goel4">Shagun Goel</a>
 </p>
